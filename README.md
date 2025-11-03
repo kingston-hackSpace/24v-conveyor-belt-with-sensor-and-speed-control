@@ -2,14 +2,15 @@
 24V Conveyor Belt with Sensor Switch. Designed for slow, short-distance and light-duty transport.
 
 
-w
-Speed: Max 20mm/s (lineal)
-Load: Up to 15kg
-Length: 550mm
-Materials: Metal frame, Fiber Belt
-Voltage: 24V DC
-Amperage: 3A
-Motor: ZY-099 motor 
+SPECIFICATIONS
+-
+- Speed: Max 20mm/s (lineal)
+- Load: Up to 15kg
+- Length: 550mm
+- Materials: Metal frame, Fiber Belt
+- Voltage: 24V DC
+- Amperage: 3A
+- Motor: ZY-099 motor 
 
 
 KIT
